@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-03-09 00:12">
+<shop>
+<name>Tehnopostavka</name>
+<company>RaSklad</company>
+<url>https://tehnopostavka.com.ua/</url>
+<phone>(068)330-50-30</phone>
+<platform>Opencart</platform>
+<version>2.1.0.2.1</version>
+<currencies>
+<currency id="UAH" rate="1" />
+</currencies>
+<categories>
+<category id="41" parentId="38" >
+Сушильні машини</category>
+</categories>
+<offers>
+<offer id="120145" available="true" >
+<url>https://tehnopostavka.com.ua/sushilnaya_mashina_candy_csoeh8a2te_s</url>
+<price>19771</price>
+<currencyId>UAH</currencyId>
+<categoryId>41</categoryId>
+<delivery>true</delivery>
+<stock_quantity>100</stock_quantity>
+<name>Сушильна машина candy csoeh8a2te-s</name>
+<vendor>Candy</vendor>
+<vendorCode>NW09624</vendorCode>
+<description><![CDATA[]]></description>
+<param name="Тип сушки">Так</param>
+<param name="Додатково">Датчик завантаження. Антиворсовий фільтр. Можливість розмістити вертикально на пральній машині. Simply-Fi (Wi-Fi керування зі смартфона у додатку Candy simply-fi)</param>
+<param name="Система AquaStop">Ні</param>
+<param name="Клас віджиму">У</param>
+<param name="Клас енергоспоживання">А++</param>
+<param name="Інверторний двигун">Ні</param>
+<param name="Діаметр люка (см/кут відкриття)">35/</param>
+<param name="Дверцята AddWash">Ні</param>
+<param name="Дисплей">є</param>
+<param name="Додатковий бак для води">Ні</param>
+<param name="Можливість вбудовування під стільницю">Ні</param>
+<param name="Мотор із прямим приводом">Ні</param>
+<param name="Об&apos;єм барабана (л)">125</param>
+<param name="Вага, кг)">41,5</param>
+<param name="Висота (см)">Так</param>
+<param name="Глибина (см)">58.5</param>
+<param name="Завантаження білизни (кг)">8</param>
+<param name="Максимальна швидкість віджиму (про/хв)">Ні</param>
+<param name="Максимальний рівень шуму при пранні/сушінні (дБ)">67</param>
+<param name="Система сушіння">з тепловим насосом</param>
+<param name="Спосіб встановлення">окремо стоїть</param>
+<param name="Тип завантаження">фронтальна</param>
+<param name="Ширина (см)">60</param>
+<param name="Безшумне (нічне) прання">Ні</param>
+<param name="Відстрочка старту">Так</param>
+<param name="Верхній одяг (куртки)">Ні</param>
+<param name="Кількість програм">16</param>
+<param name="Легке прасування (антисминання)">Так</param>
+<param name="Подушки/ковдри">Ні</param>
+<param name="Спортивний одяг/взуття">спортивний одяг</param>
+<param name="Швидка програма (у хвилинах)">30</param>
+<param name="Автодозування миючих засобів">Ні</param>
+<param name="Авторегулювання споживання води та часу прання">Ні</param>
+<param name="Віддалене керування по Wi-fi">Так</param>
+<param name="Душ-система (впорскування)">Ні</param>
+<param name="Повітряно-бульбашкова технологія">Ні</param>
+<param name="Скорочення часу прання/сушіння">Ні</param>
+<param name="Функція пари">Ні</param>
+<param name="Тип">Сушильна машина</param>
+<picture>https://tehnopostavka.com.ua/image/catalog/quad/89/sushilnaja-mashina-candy-csoeh8a2te-s-89533-1.jpg</picture>
+<picture>https://tehnopostavka.com.ua/image/catalog/quad/89/sushilnaja-mashina-candy-csoeh8a2te-s-89533-1.jpg</picture>
+<picture>https://tehnopostavka.com.ua/image/catalog/quad/89/sushilnaja-mashina-candy-csoeh8a2te-s-89533-1.jpg</picture>
+<picture>https://tehnopostavka.com.ua/image/catalog/quad/89/sushilnaja-mashina-candy-csoeh8a2te-s-89533-1.jpg</picture>
+</offer>
+<offer id="124384" available="true" >
+<url>https://tehnopostavka.com.ua/sushilnaya_mashina_beko_db7111pa</url>
+<price>17881</price>
+<currencyId>UAH</currencyId>
+<categoryId>41</categoryId>
+<delivery>true</delivery>
+<stock_quantity>100</stock_quantity>
+<name>Сушильна машина  db7111pa</name>
+<vendor>Beko</vendor>
+<vendorCode>NW12275</vendorCode>
+<description><![CDATA[]]></description>
+<param name="Тип сушки">Так</param>
+<param name="Додатково">Технологія OptiSense у сушильній машині оптимізує цикл сушіння: 3 інтелектуальних датчика визначають необхідний рівень сухості та зупиняють сушарку, як тільки вона досягнута. Індикатор очищення фільтра.</param>
+<param name="Система AquaStop">Ні</param>
+<param name="Клас віджиму">У</param>
+<param name="Клас енергоспоживання">У</param>
+<param name="Інверторний двигун">Ні</param>
+<param name="Дверцята AddWash">Ні</param>
+<param name="Дисплей">LED</param>
+<param name="Додатковий бак для води">Ні</param>
+<param name="Можливість вбудовування під стільницю">Ні</param>
+<param name="Мотор із прямим приводом">Ні</param>
+<param name="Об&apos;єм барабана (л)">102</param>
+<param name="Особливості барабана">AquaWave</param>
+<param name="Вага, кг)">34</param>
+<param name="Висота (см)">Так</param>
+<param name="Глибина (см)">56.8</param>
+<param name="Завантаження білизни (кг)">7</param>
+<param name="Максимальна швидкість віджиму (про/хв)">Ні</param>
+<param name="Спосіб встановлення">окремо стоїть</param>
+<param name="Тип завантаження">фронтальна</param>
+<param name="Ширина (см)">59.7</param>
+<param name="Безшумне (нічне) прання">Ні</param>
+<param name="Відстрочка старту">Так</param>
+<param name="Верхній одяг (куртки)">Ні</param>
+<param name="Кількість програм">15</param>
+<param name="Легке прасування (антисминання)">Так</param>
+<param name="Подушки/ковдри">Ні</param>
+<param name="Спортивний одяг/взуття">спортивний одяг</param>
+<param name="Швидка програма (у хвилинах)">10</param>
+<param name="Автодозування миючих засобів">Ні</param>
+<param name="Авторегулювання споживання води та часу прання">Ні</param>
+<param name="Віддалене керування по Wi-fi">Ні</param>
+<param name="Душ-система (впорскування)">Ні</param>
+<param name="Повітряно-бульбашкова технологія">Ні</param>
+<param name="Скорочення часу прання/сушіння">Ні</param>
+<param name="Функція пари">Ні</param>
+<param name="Тип">Сушильна машина</param>
+<picture>https://tehnopostavka.com.ua/image/catalog/quad/92/sushilnaja-mashina-beko-db7111pa-92510-1.jpg</picture>
+<picture>https://tehnopostavka.com.ua/image/catalog/quad/92/sushilnaja-mashina-beko-db7111pa-92510-1.jpg</picture>
+</offer>
+</offers>
+</shop></yml_catalog>
