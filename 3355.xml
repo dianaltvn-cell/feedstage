@@ -357,8 +357,8 @@
     <categoryId>2801</categoryId>
     <vendor>Hator</vendor>
     <vendorCode>HTC3440XL</vendorCode>
-    <name>Геймерское кресло (HTC3440XL) </name>
-    <name_ua>Геймерське крісло (HTC3440XL) </name_ua>
+    <name>Геймерское кресло Hator Arc 3 XL Velour Black (HTC3440XL) [170600]</name>
+    <name_ua>Геймерське крісло Hator Arc 3 XL Velour Black (HTC3440XL) [170600]</name_ua>
     <url>https://touch.com.ua/ua/item/geymerskoe-kreslo-hator-arc-3-xl-velour-black-htc3440xl/</url>
     <picture>https://touch.com.ua/upload/iblock/07a/niyentj5xpnz6z80c88sqrb6banwzfe7.jpg</picture>
 <picture>https://touch.com.ua/upload/iblock/fa6/rwccijptghjn2iwnbqu0qkz7zqy5jxpg.jpg</picture>
@@ -450,7 +450,7 @@
     <param name="Регулировка">Угол наклона сиденья, Расстояние подлокотников, Высота сиденья, Высота подголовника, Степень жесткости качания, Угол наклона подлокотников, Угол наклона спинки, Высота подлокотников, Угол поворота подлокотников</param>
     <param name="Наполнитель">Формованная пена</param>
     <param name="Наличие подушек">Для головы/для поясницы</param>
-    <param name="Материал обивки"></param>
+    <param name="Материал обивки">Велюр</param>
     <param name="Максимальная нагрузка">180 кг</param>
     <param name="Материал рамы">Сталь</param>
     <param name="Материал колес">Пластик</param>
