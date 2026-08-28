@@ -9,6 +9,7 @@
     </currencies>
     <categories>
       <category id="2801">Компьютерные кресла</category>
+      <category id="2482">Блендеры</category>
       </categories>
     <offers>
 <offer id="108359" available="true">   
@@ -1435,8 +1436,8 @@
     <sale_price>7549</sale_price>
     <categoryId>2801</categoryId>
     <vendor>OfficePro</vendor>
-    <name>Офисное кресло OfficePro Harmony OC310-G-G-G Gray [148639]</name>
-    <name_ua>Офісне крісло OfficePro Harmony OC310-G-G-G Gray [148639]</name_ua>
+    <name>Офисное кресло OfficePro Harmony OC310-G-G-G Gray [148639] test</name>
+    <name_ua>Офісне крісло OfficePro Harmony OC310-G-G-G Gray [148639] test</name_ua>
     <url>https://touch.com.ua/ua/item/ofisnoe-kreslo-officepro-harmony-gray-oc310-g-g-g/</url>
     <picture>https://touch.com.ua/upload/iblock/691/kd3z343i6y1cxgzn54gp7pn72u94h1pe.jpg</picture>
 <picture>https://touch.com.ua/upload/iblock/068/llw3dv2cz4gfqmr1lwnlommiei8qkfw1.jpg</picture>
@@ -1844,8 +1845,8 @@
     <sale_price>11499</sale_price>
     <categoryId>2801</categoryId>
     <vendor>GT Racer</vendor>
-    <name>Геймерское кресло GT Racer X-7001 Black/Blue [147942]</name>
-    <name_ua>Геймерське крісло GT Racer X-7001 Black/Blue [147942]</name_ua>
+    <name>Геймерское кресло GT Racer X-7001 Black/Blue [147942, test]</name>
+    <name_ua>Геймерське крісло GT Racer X-7001 Black/Blue [147942, test]</name_ua>
     <url>https://touch.com.ua/ua/item/geymerskoe-kreslo-gt-racer-x-7001-black-blue/</url>
     <picture>https://touch.com.ua/upload/iblock/c92/liaz2ypihgieu41o5cidbjwi29f7x83b.jpg</picture>
 <picture>https://touch.com.ua/upload/iblock/e9d/parx7gkjbylfcvmnby9dx9l3n8u0nf8j.jpg</picture>
@@ -1908,7 +1909,198 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-
+    <offer id="56877" available="true">   
+    <stock_quantity>1000</stock_quantity>
+    <currencyId>UAH</currencyId>
+    <price>2399</price>
+    <sale_price>1999</sale_price>
+    <categoryId>2482</categoryId>
+    <vendor>Tefal</vendor>
+    <name>Блендер Tefal Blendforce BL420131 [66323]</name>
+    <name_ua>Блендер Tefal Blendforce BL420131 [66323]</name_ua>
+    <url>https://touch.com.ua/ua/item/tefal-bl420131-blender/</url>
+    <picture>https://touch.com.ua/upload/iblock/kq8/kq8c3civ78j1y0l3ep1fdl31nhcrbmih.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/cmo/cmos0m9qhub5ia27633s00lv2p80m9vo.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/494/49451hexmb501r8vmiklfzvohg2v7fhy.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/d0i/d0ixmk4dj0gqfk1b1d18cu0jqueb0clu.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/6vg/6vg3r5qamloa9c6xl5wfc2bqh4bjq8ta.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/dos/dosapda0ggqeicpino2is7zg866c34jw.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/5eg/5eg2j3kt6u4b9mp6cpnhkjdkzqvojnty.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/jrw/jrwdda9dpfpju3lhym99fvcacglulbnt.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/cz7/cz7xj4uhtqx8ah6xoecmwjhvfwjpkwys.jpg</picture>  
+    <description><![CDATA[<h3><b>Tefal BlendForce Blender: легко смешивается изо дня в день!</b></h3>
+ BlendForce обеспечивает отличные результаты смешивания, легко получаемые благодаря высокой мощности. Блендер 600 Вт оснащен инновационной системой охлаждения, которая оптимизирует воздушный поток, увеличивает срок службы двигателя и предотвращает перегрев, что обеспечивает непрерывное перемешивание в течение 3 минут.<br>
+<h3><b>Smart Lock</b></h3>
+Благодаря 3 технологиям Smart Lock, легко смешивать ингредиенты любого типа:<br>
+<ul>
+<li>Первое действие - Easy Lock: внешний замок для более легкого закрытия на 40% (по сравнению с моделями Tefal, которые не имеют этой технологии);</li>
+<li>
+Второе действие: легкая безопасность: новая система автоматической блокировки дает клиньям абсолютно безопасное положение при блокировке контейнера;</li>
+<li>
+Третье действие: Easy Clean: очистка легче с помощью системы разделения ламелей.</li>
+</ul>
+<h3><b>Удобство в использовании</b></h3>
+ Использование блендера чрезвычайно удобно благодаря текстуре вращающейся ручки, эргономичной ручке и основанию блендера, что помогает поддерживать стабильность блендера. Контейнер с 2 литрами градуирован и помогает измерять оптимальное количество для каждого ингредиента, делая его идеальным для любого типа рецепта, с идеальными результатами каждый раз. TEFAL BlendForce Blender предлагает вам разнообразные варианты, такие как коктейли, соусы, паста для чили или функция ледокола для идеальных результатов смешивания и вкусных блюд каждый день.<br>]]></description>
+    <description_ua><![CDATA[<h3><b>Tefal BlendForce Blender: легко змішується день у день!</b></h3>
+ BlendForce забезпечує відмінні результати змішування, які легко отримують завдяки високій потужності. Блендер 600 Вт оснащений інноваційною системою охолодження, яка оптимізує повітряний потік, збільшує термін служби двигуна та запобігає перегріву, що забезпечує безперервне перемішування протягом 3 хвилин.<br>
+<h3><b>Smart Lock</b></h3>
+ Завдяки 3 технологіям Smart Lock легко змішувати інгредієнти будь-якого типу:<br>
+<ul>
+	<li>Перша дія - Easy Lock: зовнішній замок для легшого закриття на 40% (порівняно з моделями Tefal, які не мають цієї технології);</li>
+	<li>
+	Друга дія: легка безпека: нова система автоматичного блокування дає клинам абсолютно безпечне положення при блокуванні контейнера;</li>
+	<li>
+	Третя дія: Easy Clean: очищення легше за допомогою системи поділу ламелів.</li>
+</ul>
+<h3><b>Зручність у використанні</b></h3>
+ Використання блендера надзвичайно зручне завдяки текстурі ручки, що обертається, ергономічній ручці і підставі блендера, що допомагає підтримувати стабільність блендера. Контейнер з 2 літрами градуйований та допомагає вимірювати оптимальну кількість для кожного інгредієнта, роблячи його ідеальним для будь-якого типу рецепту, з ідеальними результатами щоразу. TEFAL BlendForce Blender пропонує вам різноманітні варіанти, такі як коктейлі, соуси, паста для чилі або функція криголама для ідеальних результатів змішування та смачних страв щодня.<br>]]></description_ua>
+    <param name="Гарантия">6 місяців</param>
+    <param name="Габарити_UA">370 х 200 х 200 мм</param>
+    <param name="Объем чаши">1.25 л</param>
+    <param name="Вага_UA">2.74 кг</param>
+    <param name="Цвет">Белый</param>
+    <param name="Регион">UA</param>
+    <param name="Материал чаши / мерного стакана">Пластик</param>
+    <param name="Материал корпуса">Пластик</param>
+    <param name="Материал лезвия">Нержавеющая сталь</param>
+    <param name="Конструкция">Стационарный</param>
+    <param name="Совместимая модель">Tefal BL420131</param>
+    <param name="Совместимый бренд">Tefal BL420131</param>
+    <param name="Тип">Блендеры</param>
+    <param name="Мощность">600 Вт</param>
+    <param name="Стан">Новий</param>
+</offer>
+<offer id="56882" available="true">   
+    <stock_quantity>1001</stock_quantity>
+    <currencyId>UAH</currencyId>
+    <price>3899</price>
+    <sale_price>3249</sale_price>
+    <categoryId>2482</categoryId>
+    <vendor>Philips</vendor>
+    <name>Блендер Philips Daily Collection HR2537/00 [66328]</name>
+    <name_ua>Блендер Philips Daily Collection HR2537/00 [66328]</name_ua>
+    <url>https://touch.com.ua/ua/item/philips-hr2537-00-blender/</url>
+    <picture>https://touch.com.ua/upload/iblock/gsl/gslw8z8942fdyygn1cw9w0sjt0681ueh.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/3p2/3p21mcav8addrd6f82qs3k3sdw9lnfsk.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/wyu/wyue85lhb6amy89okm0fp66x6uj149bf.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/bs5/bs5mhsxrnn7pcwy5mp5pgi38drvescee.jpg</picture>  
+    <description><![CDATA[<h3><b>Насадка, предотвращающая разбрызгивание</b></h3>
+ Особая волнообразная форма нижней части погружной насадки блендера защищает от разбрызгивания во время приготовления блюд, оставляя рабочую поверхность чистой.<br>
+<h3><b>Эргономичный дизайн</b></h3>
+ Прочная конструкция и эргономичный дизайн обеспечивают удобство использования<br>
+<h3><b>Современная технология смешивания ProMix</b></h3>
+ Уникальная технология Philips ProMix разработана в сотрудничестве со специалистами престижного Штутгартского университета и представляет собой насадку треугольной формы, которая гарантирует плавное, быстрое и эффективное смешивание для достижения однородной консистенции.<br>
+<h3><b>Извлечение нажатием одной кнопки</b></h3>
+ Легко устанавливайте и снимайте различные аксессуары одним нажатием кнопки.<br>
+<h3><b>Одиночный венчик</b></h3>
+ Одиночный венчик для ручного блендера Philips позволяет готовить взбитые сливки, майонез, тесто для блинчиков и многое другое.<br>
+<h3><b>Мощный мотор 650 Вт</b></h3>
+ Мощный мотор 650 Вт позволяет эффективно смешивать ингредиенты для ежедневного приготовления домашних блюд<br>
+<h3><b>Компактный измельчитель</b></h3>
+ С компактным измельчителем вы можете без труда измельчать травы, орехи, сыр, шоколад и лук.<br>
+<h3><b>Измельчитель размера XL</b></h3>
+Измельчитель XL для приготовления вкусных соусов и салатов, дробления фруктов и большого количества мяса]]></description>
+    <description_ua><![CDATA[<h3><b>Насадка, що запобігає розбризкуванню</b></h3>
+ Особлива хвилеподібна форма нижньої частини занурювальної насадки блендера захищає від розбризкування під час приготування страв, залишаючи чисту робочу поверхню.<br>
+<h3><b>Ергономічний дизайн</b></h3>
+ Міцна конструкція та ергономічний дизайн забезпечують зручність використання<br>
+<h3><b>Сучасна технологія змішування ProMix</b></h3>
+ Унікальна технологія Philips ProMix розроблена у співпраці зі спеціалістами престижного Штутгартського університету та є насадкою трикутної форми, яка гарантує плавне, швидке та ефективне змішування для досягнення однорідної консистенції.<br>
+<h3><b>Вилучення натисканням однієї кнопки</b></h3>
+ Легко встановлюйте та знімайте різні аксесуари одним натисканням кнопки.<br>
+<h3><b>Одинковий вінчик</b></h3>
+ Одиночний вінчик для ручного блендера Philips дозволяє готувати збиті вершки, майонез, тісто для млинців та багато іншого.<br>
+<h3><b>Потужний двигун 650 Вт</b></h3>
+ Потужний двигун 650 Вт дозволяє ефективно змішувати інгредієнти для щоденного приготування домашніх страв<br>
+<h3><b>Компактний подрібнювач</b></h3>
+ З компактним подрібнювачем ви можете легко подрібнювати трави, горіхи, сир, шоколад і цибулю.<br>
+<h3><b>Подрібнювач розміру XL</b></h3>
+Подрібнювач XL для приготування смачних соусів та салатів, дроблення фруктів та великої кількості м'яса]]></description_ua>
+    <param name="Гарантия">6 місяців</param>
+    <param name="Габарити_UA">192 х 164 х 377 мм</param>
+    <param name="Объем чаши">500 мл / 350 мл</param>
+    <param name="Цвет">Белый</param>
+    <param name="Регион">UA</param>
+    <param name="Объем мерного стакана">500 мл</param>
+    <param name="Материал чаши / мерного стакана">Пластик</param>
+    <param name="Материал корпуса">Пластик</param>
+    <param name="Материал лезвия">Нержавеющая сталь</param>
+    <param name="Конструкция">Погружной</param>
+    <param name="Довжина шнура">85 см</param>
+    <param name="Совместимая модель">Philips HR2537/00</param>
+    <param name="Совместимый бренд">Philips HR2537/00</param>
+    <param name="Тип">Блендеры</param>
+    <param name="Мощность">650 Вт</param>
+    <param name="Стан">Новий</param>
+</offer>
+    <offer id="147956" available="true">   
+    <stock_quantity>1000</stock_quantity>
+    <currencyId>UAH</currencyId>
+    <price>8999</price>
+    <sale_price>7499</sale_price>
+    <categoryId>2801</categoryId>
+    <vendor>GT Racer</vendor>
+    <name>Офисное кресло GT Racer B-121A Black Офисное кресло [132240]</name>
+    <name_ua>Офісне крісло GT Racer B-121A Black Офісне крісло [132240]</name_ua>
+    <url>https://touch.com.ua/ua/item/gt-racer-b-121a-black-ofisnoe-kreslo-132240-kompyuternye-kresla-komp-yuterni-krisla/</url>
+    <picture>https://touch.com.ua/upload/iblock/5d5/ax5fbn0qv78dc7esnqxbqx8l13s0fx61.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/525/j53v3xkectrf9xsq7nk1dli9mawn9tvz.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/07f/9mes3dui96aoatot9b7mu4qiyjg3eees.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/61f/jykn1urjurvj93kl1jrhh2v8tf88jing.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/06b/2x417a0386xuexdxkoyhpk5skuue9jss.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/258/n1act4s3mfqnlipfus2joh3j4iic0xnq.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/fe1/t8qprmr3jsvqbc9tvqghrmzo5ionjxsu.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/b4c/qe3any4y3tl8b334dkdyk2v9d8ugf724.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/7de/pacxwxsyacq4s34rqzi8qkat8zkenhem.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/077/283vem9y2wba0woer9hjdug8235hjtdk.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/8fe/nck7ubgu44gu0fm8onw9uzg0s49udnqy.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/38d/waxry4ovbzxtz80761g3yfhqte9vn5sa.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/f9b/x20beug8icuyx01lu67xpkh1aipqj9km.jpg</picture>
+<picture>https://touch.com.ua/upload/iblock/111/vo94dovwxfoboxdk7be2j3zxgbzoo1bj.jpg</picture>  
+    <description><![CDATA[<h3><b>Комфорт в любом интерьере</b></h3>
+ Офисное кресло GT Racer B-121A создано для тех, кто ценит эргономику, практичность и современный стиль. Модель доступна в двух универсальных цветах — чёрном и сером, легко вписываясь в любой офисный интерьер. Комбинированная обивка из ткани и сетки делает кресло комфортным для использования в любое время года. <br>
+ <br>
+<h3><b>Эргономика для продуктивности</b></h3>
+ Изогнутая спинка с поддержкой поясницы способствует правильной посадке и снижает усталость при длительной работе. Угол наклона регулируется от 90° до 135°, а регулируемый по высоте подголовник обеспечивает поддержку шеи и головы. Механизм качания Tilt позволяет расслабиться в перерывах, а настройка пружины адаптирует интенсивность под ваш вкус. <br>
+ <br>
+<h3><b>Максимальная индивидуальная настройка</b></h3>
+ Подлокотники регулируются в трёх направлениях: по высоте, вперёд-назад и в стороны, обеспечивая отличную поддержку рук. Газлифт Евростандарта позволяет точно настроить высоту сиденья относительно стола, создавая оптимальные условия для работы. <br>
+ <br>
+<h3><b>Долговечность и надёжность</b></h3>
+ Износостойкая ткань и сетка обеспечивают отличную вентиляцию и сохраняют презентабельный вид кресла на протяжении долгого времени. Прочная металлическая крестовина и мягкий, но плотный наполнитель из пенополиуретана гарантируют устойчивость и комфорт. Максимальная нагрузка до 100 кг делает кресло надёжным выбором на каждый день. <br>
+ <br>]]></description>
+    <description_ua><![CDATA[<h3><b>Комфорт у будь-якому інтер'єрі</b></h3>
+ Офісне крісло GT Racer B-121A створене для тих, хто цінує ергономіку, практичність і сучасний стиль. Модель доступна у двох універсальних кольорах — чорному та сірому, і легко доповнює будь-який офісний інтер'єр. Комбінована оббивка з тканини та сітки забезпечує комфортне використання у будь-яку пору року. <br>
+ <br>
+<h3><b>Ергономіка для продуктивності</b></h3>
+ Вигнута спинка з підтримкою попереку сприяє правильній посадці та зменшує втому під час довготривалої роботи. Кут нахилу регулюється в межах 90°–135°, а підголівник з можливістю регулювання по висоті гарантує підтримку шиї та голови. Механізм гойдання Tilt дозволяє розслабитися, а налаштування жорсткості гойдання адаптується під особисті вподобання. <br>
+ <br>
+<h3><b>Максимальне індивідуальне налаштування</b></h3>
+ Підлокітники регулюються в трьох напрямках: по висоті, вперед-назад і в сторони, забезпечуючи комфортну підтримку рук. Газліфт Євростандарт дозволяє точно налаштувати висоту сидіння відносно робочої поверхні, що створює оптимальні умови для роботи. <br>
+ <br>
+<h3><b>Зносостійкість і надійність</b></h3>
+ Тканина та сітка мають високу зносостійкість, добре вентилюються й довго зберігають охайний вигляд. Міцна металева хрестовина та щільний наповнювач із пінополіуретану гарантують стабільність і комфорт. Максимальне навантаження до 100 кг робить це крісло надійним вибором для щоденного користування. <br>
+ ]]></description_ua>
+    <param name="Гарантия">12 місяців</param>
+    <param name="Габарити_UA">680 х 500 мм (спинка) • 500 х 500 мм (сиденье)</param>
+    <param name="Вага_UA">15.2 кг</param>
+    <param name="Угол наклона спинки">90 - 135°</param>
+    <param name="Тип кресла">Офисное кресло</param>
+    <param name="Цвет">Черный</param>
+    <param name="Режим качания">Да</param>
+    <param name="Регулировка подлокотников">3D</param>
+    <param name="Регулировка">Высота сиденья, Угол наклона спинки, Высота подлокотников, Угол поворота подлокотников</param>
+    <param name="Наполнитель">Пенополиуретан</param>
+    <param name="Наличие подушек">Отсутствуют</param>
+    <param name="Материал обивки">Текстиль</param>
+    <param name="Максимальная нагрузка">100 кг</param>
+    <param name="Материал рамы">Нейлон</param>
+    <param name="Класс газлифта">2</param>
+    <param name="Комплектація">Спинка • сидіння • хрестовина • механізм • пневмопатрон • підлокітники • ролики • гвинти для монтажу • документація</param>
+    <param name="Комплектация">Спинка • сиденье • крестовина • механизм • пневмопатрон • подлокотники • ролики • винты для монтажа • документация</param>
+    <param name="Тип">Компьютерные кресла</param>
+    <param name="Стан">Новий</param>
+</offer>
     </offers>
   </shop>
 </yml_catalog>
