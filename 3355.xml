@@ -2136,6 +2136,7 @@
 <param name="Висота в упаковці">41.5 (см)</param>
 <param name="Вага в упаковці">0.6  кг</param>
 <param name="Стан">Новий</param>
+<param name="Тема">Вінтаж</param>
 </offer>
 <offer id="7135314567" available="true" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-svobodnaya-polina-skurihina-40h50</url>
@@ -2166,6 +2167,7 @@
 <param name="Висота в упаковці">41.5 (см)</param>
 <param name="Вага в упаковці">0.6  кг</param>
 <param name="Стан">Новий</param>
+<param name="Тема">Арт</param>
 </offer>
 <offer id="7135645786" available="true" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-simvoly-svobody-copy-lili-demachkovich-40h50</url>
@@ -2196,6 +2198,7 @@
 <param name="Висота в упаковці">41.5 (см)</param>
 <param name="Вага в упаковці">0.6  кг</param>
 <param name="Стан">Новий</param>
+<param name="Тема">Гори</param>
 </offer>
 <offer id="712727852" available="true" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-semejnoe-teplo-copy-svetlana-drab-40h50</url>
@@ -2227,6 +2230,7 @@
 <param name="Висота в упаковці">41.5 (см)</param>
 <param name="Вага в упаковці">0.6  кг</param>
 <param name="Стан">Новий</param>
+<param name="Тема">Люди</param>
 </offer>
 <offer id="71273" available="true" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-v-edinstve-sila-copy-dar-ya-mihajlishina-40h50</url>
@@ -2258,6 +2262,7 @@
 <param name="Висота в упаковці">41.5 (см)</param>
 <param name="Вага в упаковці">0.6  кг</param>
 <param name="Стан">Новий</param>
+<param name="Тема">Люди</param>
 </offer>
 <offer id="711287841" available="true" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-ukrainskaya-kotika-oborona-40h50</url>
@@ -2290,6 +2295,7 @@
 <param name="Висота в упаковці">41.5 (см)</param>
 <param name="Вага в упаковці">0.6  кг</param>
 <param name="Стан">Новий</param>
+<param name="Тема">Гори</param>
 </offer>
 <offer id="71130478" available="true" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-chernobaevka-40h50</url>
@@ -2323,6 +2329,7 @@
 <param name="Висота в упаковці">41.5 (см)</param>
 <param name="Вага в упаковці">0.6  кг</param>
 <param name="Стан">Новий</param>
+<param name="Тема">Арт</param>
 </offer>
 <offer id="7111233" available="true" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-melnica-40h50</url>
@@ -2353,6 +2360,7 @@
 <param name="Висота в упаковці">41.5 (см)</param>
 <param name="Вага в упаковці">0.6  кг</param>
 <param name="Стан">Новий</param>
+<param name="Тема">Вінтаж</param>
 </offer>
     </offers>
   </shop>
