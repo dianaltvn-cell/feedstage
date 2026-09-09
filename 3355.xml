@@ -10,6 +10,7 @@
     <categories>
       <category id="2801">Компьютерные кресла</category>
       <category id="2482">Блендеры</category>
+      <category id="331" parentId="9" >Раскраски по номерам</category>
       </categories>
     <offers>
 <offer id="108359" available="true">   
@@ -2105,6 +2106,253 @@
     <param name="Комплектация">Спинка • сиденье • крестовина • механизм • пневмопатрон • подлокотники • ролики • винты для монтажа • документация</param>
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
+</offer>
+<offer id="71346565465" available="true" >
+<url>https://planeta-igr.com/raskraska-po-nomeram-krylataya-mechta-copy-lili-demachkovich-40h50</url>
+<price>275.00</price>
+<stock_quantity>11</stock_quantity>
+<currencyId>UAH</currencyId>
+<categoryId>331</categoryId>
+<picture>https://planeta-igr.com/image/rozetka/_71346.jpg</picture>
+<name>Brushme Раскраска по номерам Крылатая мечта, Лили Демачкович (40х50) (BS53234)</name>
+<name_ua>Brushme Розмальовка за номерами Крилата мрія, Лілі Демачкович (40х50) (BS53234)</name_ua>
+<vendor>Brushme</vendor>
+<description>Brushme Раскраска по номерам Крылатая мечта, Лили Демачкович (40х50)</description>
+<description_ua>Brushme Розмальовка за номерами Крилата мрія, Лілі Демачкович (40х50)</description_ua>
+<param name="Країна-виробник товару">Украина</param>
+<param name="Країна реєстрації бренду">Украина</param>
+<param name="Состав_RU">хлопковый холст на деревянном подрамнике с нанесенной пронумерованной схемой будущей картины; 3 кисти разной толщины; акриловые пронумерованные краски; крепления к стене для готовой картины</param>
+<param name="Состав_UA">бавовняне полотно на дерев&amp;apos;яному підрамнику з нанесеною пронумерованою схемою майбутньої картини; 3 пензлі різної товщини; акрилові пронумеровані фарби; кріплення до стіни для готової картини</param>
+<param name="Час_RU">от 2 дней</param>
+<param name="Час_UA">від 2 днів</param>
+<param name="Возраст">от 8 лет</param>
+<param name="Девиз_RU">&amp;quot;Нарисуй свою историю…&amp;quot;</param>
+<param name="Девиз_UA">&amp;quot;Намалюй свою історію…&amp;quot;</param>
+<param name="Артикул">BS53234</param>
+<param name="Доставка/Оплата"><![CDATA[Доступен наложенный платеж, онлайн оплата!<br>Самовывоз в Одессе или доставка по Украине!<br>Бесплатная доставка заказов суммой более 3000 грн или на точку выдачи Rozetka товаров стоимостью от 699 грн!<br>Слава Украине!]]></param>
+<param name="Гарантія">Гарантия обмен/возврат товара в течение 14 дней</param>
+<param name="Ширина в упаковці">2 (см)</param>
+<param name="Глибина в упаковці">51.5 (см)</param>
+<param name="Висота в упаковці">41.5 (см)</param>
+<param name="Вага в упаковці">0.6  кг</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="7135314567" available="true" >
+<url>https://planeta-igr.com/raskraska-po-nomeram-svobodnaya-polina-skurihina-40h50</url>
+<price>275.00</price>
+<stock_quantity>11</stock_quantity>
+<currencyId>UAH</currencyId>
+<categoryId>331</categoryId>
+<picture>https://planeta-igr.com/image/rozetka/_71353.jpg</picture>
+<name>Brushme Раскраска по номерам Свободная, Полина Скурихина (40х50) (BS53274)</name>
+<name_ua>Brushme Розмальовка за номерами Вільна, Поліна Скурихіна (40х50) (BS53274)</name_ua>
+<vendor>Brushme</vendor>
+<description>Brushme Раскраска по номерам Свободная, Полина Скурихина (40х50)</description>
+<description_ua>Brushme Розмальовка за номерами Вільна, Поліна Скурихіна (40х50)</description_ua>
+<param name="Країна-виробник товару">Украина</param>
+<param name="Країна реєстрації бренду">Украина</param>
+<param name="Состав_RU">хлопковый холст на деревянном подрамнике с нанесенной пронумерованной схемой будущей картины; 3 кисти разной толщины; акриловые пронумерованные краски; крепления к стене для готовой картины</param>
+<param name="Состав_UA">бавовняне полотно на дерев&amp;apos;яному підрамнику з нанесеною пронумерованою схемою майбутньої картини; 3 пензлі різної товщини; акрилові пронумеровані фарби; кріплення до стіни для готової картини</param>
+<param name="Час_RU">от 2 дней</param>
+<param name="Час_UA">від 2 днів</param>
+<param name="Возраст">от 8 лет</param>
+<param name="Девиз_RU">&amp;quot;Твори картины собственными руками!&amp;quot;</param>
+<param name="Девиз_UA">&amp;quot;Твори картини власноруч!&amp;quot;</param>
+<param name="Артикул">BS53274</param>
+<param name="Доставка/Оплата"><![CDATA[Доступен наложенный платеж, онлайн оплата!<br>Самовывоз в Одессе или доставка по Украине!<br>Бесплатная доставка заказов суммой более 3000 грн или на точку выдачи Rozetka товаров стоимостью от 699 грн!<br>Слава Украине!]]></param>
+<param name="Гарантія">Гарантия обмен/возврат товара в течение 14 дней</param>
+<param name="Ширина в упаковці">2 (см)</param>
+<param name="Глибина в упаковці">51.5 (см)</param>
+<param name="Висота в упаковці">41.5 (см)</param>
+<param name="Вага в упаковці">0.6  кг</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="7135645786" available="true" >
+<url>https://planeta-igr.com/raskraska-po-nomeram-simvoly-svobody-copy-lili-demachkovich-40h50</url>
+<price>275.00</price>
+<stock_quantity>11</stock_quantity>
+<currencyId>UAH</currencyId>
+<categoryId>331</categoryId>
+<picture>https://planeta-igr.com/image/rozetka/_71356.jpg</picture>
+<name>Brushme Раскраска по номерам Символы свободы, Лили Демачкович (40х50) (BS53285)</name>
+<name_ua>Brushme Розмальовка за номерами Символи свободи, Лілі Демачкович (40х50) (BS53285)</name_ua>
+<vendor>Brushme</vendor>
+<description>Brushme Раскраска по номерам Символы свободы, Лили Демачкович (40х50)</description>
+<description_ua>Brushme Розмальовка за номерами Символи свободи, Лілі Демачкович (40х50)</description_ua>
+<param name="Країна-виробник товару">Украина</param>
+<param name="Країна реєстрації бренду">Украина</param>
+<param name="Состав_RU">хлопковый холст на деревянном подрамнике с нанесенной пронумерованной схемой будущей картины; 3 кисти разной толщины; акриловые пронумерованные краски; крепления к стене для готовой картины</param>
+<param name="Состав_UA">бавовняне полотно на дерев&amp;apos;яному підрамнику з нанесеною пронумерованою схемою майбутньої картини; 3 пензлі різної товщини; акрилові пронумеровані фарби; кріплення до стіни для готової картини</param>
+<param name="Час_RU">от 2 дней</param>
+<param name="Час_UA">від 2 днів</param>
+<param name="Возраст">от 8 лет</param>
+<param name="Девиз_RU">&amp;quot;Собственная мастерская счастья!&amp;quot;</param>
+<param name="Девиз_UA">&amp;quot;Власна майстерня щастя!&amp;quot;</param>
+<param name="Артикул">BS53285</param>
+<param name="Доставка/Оплата"><![CDATA[Доступен наложенный платеж, онлайн оплата!<br>Самовывоз в Одессе или доставка по Украине!<br>Бесплатная доставка заказов суммой более 3000 грн или на точку выдачи Rozetka товаров стоимостью от 699 грн!<br>Слава Украине!]]></param>
+<param name="Гарантія">Гарантия обмен/возврат товара в течение 14 дней</param>
+<param name="Ширина в упаковці">2 (см)</param>
+<param name="Глибина в упаковці">51.5 (см)</param>
+<param name="Висота в упаковці">41.5 (см)</param>
+<param name="Вага в упаковці">0.6  кг</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="712727852" available="true" >
+<url>https://planeta-igr.com/raskraska-po-nomeram-semejnoe-teplo-copy-svetlana-drab-40h50</url>
+<price>275.00</price>
+<stock_quantity>11</stock_quantity>
+<currencyId>UAH</currencyId>
+<categoryId>331</categoryId>
+<picture>https://planeta-igr.com/image/rozetka/_71272.jpg</picture>
+<picture>https://planeta-igr.com/image/rozetka/_71272-1.jpg</picture>
+<name>Brushme Раскраска по номерам Семейное тепло, Svetlana Drab (40х50) (BS53078)</name>
+<name_ua>Brushme Розмальовка за номерами Сімейне тепло, Svetlana Drab (40х50) (BS53078)</name_ua>
+<vendor>Brushme</vendor>
+<description>Brushme Раскраска по номерам Семейное тепло, Svetlana Drab (40х50)</description>
+<description_ua>Brushme Розмальовка за номерами Сімейне тепло, Svetlana Drab (40х50)</description_ua>
+<param name="Країна-виробник товару">Украина</param>
+<param name="Країна реєстрації бренду">Украина</param>
+<param name="Состав_RU">художественный прогрунтованный холст из хлопка, натянутый на деревянную раму-каркас; пронумерованные акриловые краски в плотно закрытых контейнерах; 3 синтетические кисти разных размеров; настенные крепления</param>
+<param name="Состав_UA">художнє переґрунтоване полотно з бавовни, натягнуте на дерев&amp;apos;яну раму-каркас; пронумеровані акрилові фарби у щільно закритих контейнерах; 3 синтетичні пензлі різних розмірів; настінні кріплення</param>
+<param name="Час_RU">от 2 дней</param>
+<param name="Час_UA">від 2 днів</param>
+<param name="Возраст">от 8 лет</param>
+<param name="Девиз_RU">&amp;quot;Нарисуй свою историю…&amp;quot;</param>
+<param name="Девиз_UA">&amp;quot;Намалюй свою історію…&amp;quot;</param>
+<param name="Артикул">BS53078</param>
+<param name="Доставка/Оплата"><![CDATA[Доступен наложенный платеж, онлайн оплата!<br>Самовывоз в Одессе или доставка по Украине!<br>Бесплатная доставка заказов суммой более 3000 грн или на точку выдачи Rozetka товаров стоимостью от 699 грн!<br>Слава Украине!]]></param>
+<param name="Гарантія">Гарантия обмен/возврат товара в течение 14 дней</param>
+<param name="Ширина в упаковці">2 (см)</param>
+<param name="Глибина в упаковці">51.5 (см)</param>
+<param name="Висота в упаковці">41.5 (см)</param>
+<param name="Вага в упаковці">0.6  кг</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="71273" available="true" >
+<url>https://planeta-igr.com/raskraska-po-nomeram-v-edinstve-sila-copy-dar-ya-mihajlishina-40h50</url>
+<price>275.00</price>
+<stock_quantity>11</stock_quantity>
+<currencyId>UAH</currencyId>
+<categoryId>331</categoryId>
+<picture>https://planeta-igr.com/image/rozetka/_71273.jpg</picture>
+<picture>https://planeta-igr.com/image/rozetka/_71273-1.jpg</picture>
+<name>Brushme Раскраска по номерам В единстве сила, Дар&amp;#039;я Михайлишина (40х50) (BS53080)</name>
+<name_ua>Brushme Розмальовка за номерами В єдності сила, Дар&amp;#039;я Михайлишина (40х50) (BS53080)</name_ua>
+<vendor>Brushme</vendor>
+<description>Brushme Раскраска по номерам В единстве сила, Дар&amp;#039;я Михайлишина (40х50)</description>
+<description_ua>Brushme Розмальовка за номерами В єдності сила, Дар&amp;#039;я Михайлишина (40х50)</description_ua>
+<param name="Країна-виробник товару">Украина</param>
+<param name="Країна реєстрації бренду">Украина</param>
+<param name="Состав_RU">художественный прогрунтованный холст из хлопка, натянутый на деревянную раму-каркас; пронумерованные акриловые краски в плотно закрытых контейнерах; 3 синтетические кисти разных размеров; настенные крепления</param>
+<param name="Состав_UA">художнє переґрунтоване полотно з бавовни, натягнуте на дерев&amp;apos;яну раму-каркас; пронумеровані акрилові фарби у щільно закритих контейнерах; 3 синтетичні пензлі різних розмірів; настінні кріплення</param>
+<param name="Час_RU">от 2 дней</param>
+<param name="Час_UA">від 2 днів</param>
+<param name="Возраст">от 8 лет</param>
+<param name="Девиз_RU">&amp;quot;Нарисуй свою историю…&amp;quot;</param>
+<param name="Девиз_UA">&amp;quot;Намалюй свою історію…&amp;quot;</param>
+<param name="Артикул">BS53080</param>
+<param name="Доставка/Оплата"><![CDATA[Доступен наложенный платеж, онлайн оплата!<br>Самовывоз в Одессе или доставка по Украине!<br>Бесплатная доставка заказов суммой более 3000 грн или на точку выдачи Rozetka товаров стоимостью от 699 грн!<br>Слава Украине!]]></param>
+<param name="Гарантія">Гарантия обмен/возврат товара в течение 14 дней</param>
+<param name="Ширина в упаковці">2 (см)</param>
+<param name="Глибина в упаковці">51.5 (см)</param>
+<param name="Висота в упаковці">41.5 (см)</param>
+<param name="Вага в упаковці">0.6  кг</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="711287841" available="true" >
+<url>https://planeta-igr.com/raskraska-po-nomeram-ukrainskaya-kotika-oborona-40h50</url>
+<price>375.00</price>
+<stock_quantity>11</stock_quantity>
+<currencyId>UAH</currencyId>
+<categoryId>331</categoryId>
+<picture>https://planeta-igr.com/image/rozetka/_71128.jpg</picture>
+<picture>https://planeta-igr.com/image/rozetka/_71128-1.jpg</picture>
+<picture>https://planeta-igr.com/image/rozetka/_71128-2.jpg</picture>
+<name>Оrner Раскраска по номерам Украинская Котика. Оборона (40х50) (orner-1675)</name>
+<name_ua>Оrner Розмальовка за номерами Українська Котика. Оборона (40х50) (orner-1675)</name_ua>
+<vendor>Оrner</vendor>
+<description>Оrner Раскраска по номерам Украинская Котика. Оборона (40х50)</description>
+<description_ua>Оrner Розмальовка за номерами Українська Котика. Оборона (40х50)</description_ua>
+<param name="Країна-виробник товару">Украина</param>
+<param name="Країна реєстрації бренду">Украина</param>
+<param name="Состав_RU">художественный прогрунтованный холст из хлопка, натянутый на деревянную раму-каркас; пронумерованные акриловые краски в плотно закрытых контейнерах; 3 синтетические кисти разных размеров; настенные крепления; вкладыш-подсказка с готовым рисунком</param>
+<param name="Состав_UA">художнє переґрунтоване полотно з бавовни, натягнуте на дерев&amp;apos;яну раму-каркас; пронумеровані акрилові фарби у щільно закритих контейнерах; 3 синтетичні пензлі різних розмірів; настінні кріплення; вкладиш-підказка з готовим малюнком</param>
+<param name="Час_RU">от 2 дней</param>
+<param name="Час_UA">від 2 днів</param>
+<param name="Возраст">от 8 лет</param>
+<param name="Девиз_RU">&amp;quot;Собственная мастерская счастья!&amp;quot;</param>
+<param name="Девиз_UA">&amp;quot;Власна майстерня щастя!&amp;quot;</param>
+<param name="Артикул">orner-1675</param>
+<param name="Доставка/Оплата"><![CDATA[Доступен наложенный платеж, онлайн оплата!<br>Самовывоз в Одессе или доставка по Украине!<br>Бесплатная доставка заказов суммой более 3000 грн или на точку выдачи Rozetka товаров стоимостью от 699 грн!<br>Слава Украине!]]></param>
+<param name="Гарантія">Гарантия обмен/возврат товара в течение 14 дней</param>
+<param name="Ширина в упаковці">2 (см)</param>
+<param name="Глибина в упаковці">51.5 (см)</param>
+<param name="Висота в упаковці">41.5 (см)</param>
+<param name="Вага в упаковці">0.6  кг</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="71130478" available="true" >
+<url>https://planeta-igr.com/raskraska-po-nomeram-chernobaevka-40h50</url>
+<price>375.00</price>
+<stock_quantity>11</stock_quantity>
+<currencyId>UAH</currencyId>
+<categoryId>331</categoryId>
+<picture>https://planeta-igr.com/image/rozetka/_71130.jpg</picture>
+<picture>https://planeta-igr.com/image/rozetka/_71130-1.jpg</picture>
+<picture>https://planeta-igr.com/image/rozetka/_71130-2.jpg</picture>
+<picture>https://planeta-igr.com/image/rozetka/_71130-3.jpg</picture>
+<name>Оrner Раскраска по номерам Чернобаевка (40х50) (orner-1669)</name>
+<name_ua>Оrner Розмальовка за номерами Чорнобаївка (40х50) (orner-1669)</name_ua>
+<vendor>Оrner</vendor>
+<description>Оrner Раскраска по номерам Чернобаевка (40х50)</description>
+<description_ua>Оrner Розмальовка за номерами Чорнобаївка (40х50)</description_ua>
+<param name="Країна-виробник товару">Украина</param>
+<param name="Країна реєстрації бренду">Украина</param>
+<param name="Состав_RU">художественный прогрунтованный холст из хлопка, натянутый на деревянную раму-каркас; пронумерованные акриловые краски в плотно закрытых контейнерах; 3 синтетические кисти разных размеров; настенные крепления; вкладыш-подсказка с готовым рисунком</param>
+<param name="Состав_UA">художнє переґрунтоване полотно з бавовни, натягнуте на дерев&amp;apos;яну раму-каркас; пронумеровані акрилові фарби у щільно закритих контейнерах; 3 синтетичні пензлі різних розмірів; настінні кріплення; вкладиш-підказка з готовим малюнком</param>
+<param name="Час_RU">от 2 дней</param>
+<param name="Час_UA">від 2 днів</param>
+<param name="Возраст">от 8 лет</param>
+<param name="Девиз_RU">&amp;quot;Собственная мастерская счастья!&amp;quot;</param>
+<param name="Девиз_UA">&amp;quot;Власна майстерня щастя!&amp;quot;</param>
+<param name="Артикул">orner-1669</param>
+<param name="Доставка/Оплата"><![CDATA[Доступен наложенный платеж, онлайн оплата!<br>Самовывоз в Одессе или доставка по Украине!<br>Бесплатная доставка заказов суммой более 3000 грн или на точку выдачи Rozetka товаров стоимостью от 699 грн!<br>Слава Украине!]]></param>
+<param name="Гарантія">Гарантия обмен/возврат товара в течение 14 дней</param>
+<param name="Ширина в упаковці">2 (см)</param>
+<param name="Глибина в упаковці">51.5 (см)</param>
+<param name="Висота в упаковці">41.5 (см)</param>
+<param name="Вага в упаковці">0.6  кг</param>
+<param name="Стан">Новий</param>
+</offer>
+<offer id="7111233" available="true" >
+<url>https://planeta-igr.com/raskraska-po-nomeram-melnica-40h50</url>
+<price>300.00</price>
+<stock_quantity>11</stock_quantity>
+<currencyId>UAH</currencyId>
+<categoryId>331</categoryId>
+<picture>https://planeta-igr.com/image/rozetka/_71112.jpg</picture>
+<name>ArtStory Раскраска по номерам Мельница (40х50) (AS1046)</name>
+<name_ua>ArtStory Розмальовка за номерами Млин (40х50) (AS1046)</name_ua>
+<vendor>ArtStory</vendor>
+<description>ArtStory Раскраска по номерам Мельница (40х50)</description>
+<description_ua>ArtStory Розмальовка за номерами Млин (40х50)</description_ua>
+<param name="Країна-виробник товару">Украина</param>
+<param name="Країна реєстрації бренду">Украина</param>
+<param name="Состав_RU">художественный прогрунтованный холст из натурального льна, натянутый на деревянную рамку; пронумерованные акриловые краски в плотно закрытых контейнерах; 3 нейлоновые кисти разных размеров; контрольный лист-пробник; крепления на стену</param>
+<param name="Состав_UA">художнє переґрунтоване полотно з натурального льону, натягнуте на дерев&amp;apos;яну рамку; пронумеровані акрилові фарби у щільно закритих контейнерах; 3 нейлонові пензлі різних розмірів; контрольний лист-пробник; кріплення на стіну</param>
+<param name="Час_RU">от 2 дней</param>
+<param name="Час_UA">від 2 днів</param>
+<param name="Возраст">от 8 лет</param>
+<param name="Девиз_RU">&amp;quot;Твори картины собственными руками!&amp;quot;</param>
+<param name="Девиз_UA">&amp;quot;Твори картини власноруч!&amp;quot;</param>
+<param name="Артикул">AS1046</param>
+<param name="Доставка/Оплата"><![CDATA[Доступен наложенный платеж, онлайн оплата!<br>Самовывоз в Одессе или доставка по Украине!<br>Бесплатная доставка заказов суммой более 3000 грн или на точку выдачи Rozetka товаров стоимостью от 699 грн!<br>Слава Украине!]]></param>
+<param name="Гарантія">Гарантия обмен/возврат товара в течение 14 дней</param>
+<param name="Ширина в упаковці">2 (см)</param>
+<param name="Глибина в упаковці">51.5 (см)</param>
+<param name="Висота в упаковці">41.5 (см)</param>
+<param name="Вага в упаковці">0.6  кг</param>
+<param name="Стан">Новий</param>
 </offer>
     </offers>
   </shop>
