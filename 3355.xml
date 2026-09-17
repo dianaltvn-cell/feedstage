@@ -13,7 +13,7 @@
       <category id="331" parentId="9" >Раскраски по номерам</category>
       </categories>
     <offers>
-<offer id="108359" available="true">   
+<offer id="108359" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>15119</price>
@@ -78,7 +78,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
 </offer>
-<offer id="108360" available="true">   
+<offer id="108360" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>16139</price>
@@ -142,7 +142,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="110261" available="true">   
+<offer id="110261" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>18719</price>
@@ -197,7 +197,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="135355" available="true">   
+<offer id="135355" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>21059</price>
@@ -286,7 +286,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="135457" available="true">   
+<offer id="135457" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>25439</price>
@@ -356,7 +356,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="204894" available="true">   
+<offer id="204894" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>29999</price>
@@ -467,7 +467,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="188003" available="true">   
+<offer id="188003" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>10919</price>
@@ -539,7 +539,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="188001" available="true">   
+<offer id="188001" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>10319</price>
@@ -612,7 +612,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="187996" available="true">   
+<offer id="187996" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>12179</price>
@@ -687,7 +687,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="187995" available="true">   
+<offer id="187995" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>11999</price>
@@ -760,7 +760,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="187938" available="true">   
+<offer id="187938" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>10379</price>
@@ -851,7 +851,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="187936" available="true">   
+<offer id="187936" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>11879</price>
@@ -934,7 +934,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
 </offer>
-<offer id="187938" available="true">   
+<offer id="187938" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>10379</price>
@@ -1025,7 +1025,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="187935" available="true">   
+<offer id="187935" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>11879</price>
@@ -1108,7 +1108,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="187934" available="true">   
+<offer id="187934" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>11879</price>
@@ -1190,7 +1190,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="186956" available="true">   
+<offer id="186956" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>11099</price>
@@ -1253,7 +1253,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="186386" available="true">   
+<offer id="186386" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>9719</price>
@@ -1344,7 +1344,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="186385" available="true">   
+<offer id="186385" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>9599</price>
@@ -1435,7 +1435,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="171607" available="true">   
+<offer id="171607" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>9059</price>
@@ -1502,7 +1502,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="171491" available="true">   
+<offer id="171491" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>13439</price>
@@ -1569,7 +1569,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="170140" available="true">   
+<offer id="170140" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>11999</price>
@@ -1634,7 +1634,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="170139" available="true">   
+<offer id="170139" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>13319</price>
@@ -1702,7 +1702,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="170127" available="true">   
+<offer id="170127" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>13799</price>
@@ -1773,7 +1773,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="170126" available="true">   
+<offer id="170126" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>13799</price>
@@ -1844,7 +1844,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-<offer id="170125" available="true">   
+<offer id="170125" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>13799</price>
@@ -1915,7 +1915,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
     </offer>
-    <offer id="56877" available="true">   
+    <offer id="56877" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>2399</price>
@@ -1976,7 +1976,7 @@
     <param name="Мощность">600 Вт</param>
     <param name="Стан">Новий</param>
 </offer>
-<offer id="56882" available="true">   
+<offer id="56882" available="false">   
     <stock_quantity>1001</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>3899</price>
@@ -2039,7 +2039,7 @@
     <param name="Мощность">650 Вт</param>
     <param name="Стан">Новий</param>
 </offer>
-    <offer id="147956" available="true">   
+    <offer id="147956" available="false">   
     <stock_quantity>1000</stock_quantity>
     <currencyId>UAH</currencyId>
     <price>8999</price>
@@ -2107,7 +2107,7 @@
     <param name="Тип">Компьютерные кресла</param>
     <param name="Стан">Новий</param>
 </offer>
-<offer id="71346565465" available="true" >
+<offer id="71346565465" available="false" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-krylataya-mechta-copy-lili-demachkovich-40h50</url>
 <price>275.00</price>
 <stock_quantity>11</stock_quantity>
@@ -2138,7 +2138,7 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Вінтаж</param>
 </offer>
-<offer id="7135314567" available="true" >
+<offer id="7135314567" available="false" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-svobodnaya-polina-skurihina-40h50</url>
 <price>275.00</price>
 <stock_quantity>11</stock_quantity>
@@ -2169,7 +2169,7 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Арт</param>
 </offer>
-<offer id="7135645786" available="true" >
+<offer id="7135645786" available="false" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-simvoly-svobody-copy-lili-demachkovich-40h50</url>
 <price>275.00</price>
 <stock_quantity>11</stock_quantity>
@@ -2200,7 +2200,7 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Гори</param>
 </offer>
-<offer id="712727852" available="true" >
+<offer id="712727852" available="false" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-semejnoe-teplo-copy-svetlana-drab-40h50</url>
 <price>275.00</price>
 <stock_quantity>11</stock_quantity>
@@ -2232,7 +2232,7 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Люди</param>
 </offer>
-<offer id="71273" available="true" >
+<offer id="71273" available="false" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-v-edinstve-sila-copy-dar-ya-mihajlishina-40h50</url>
 <price>275.00</price>
 <stock_quantity>11</stock_quantity>
@@ -2264,7 +2264,7 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Люди</param>
 </offer>
-<offer id="711287841" available="true" >
+<offer id="711287841" available="false" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-ukrainskaya-kotika-oborona-40h50</url>
 <price>375.00</price>
 <stock_quantity>11</stock_quantity>
@@ -2297,7 +2297,7 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Гори</param>
 </offer>
-<offer id="71130478" available="true" >
+<offer id="71130478" available="false" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-chernobaevka-40h50</url>
 <price>375.00</price>
 <stock_quantity>11</stock_quantity>
@@ -2331,7 +2331,7 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Арт</param>
 </offer>
-<offer id="7111233" available="true" >
+<offer id="7111233" available="false" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-melnica-40h50</url>
 <price>300.00</price>
 <stock_quantity>11</stock_quantity>
