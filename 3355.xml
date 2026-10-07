@@ -2300,9 +2300,9 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Гори</param>
 </offer>
-<offer id="71130478" available="false" >
+<offer id="71130478" available="true" >
 <url>https://planeta-igr.com/raskraska-po-nomeram-chernobaevka-40h50</url>
-<price>375.00</price>
+<price>370</price>
 <stock_quantity>11</stock_quantity>
 <currencyId>UAH</currencyId>
 <categoryId>331</categoryId>
