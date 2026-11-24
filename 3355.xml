@@ -2366,8 +2366,8 @@
 <param name="Стан">Новий</param>
 <param name="Тема">Вінтаж</param>
 </offer>
-<offer id="D-000037642" available="false">
-        <price>0</price>
+<offer id="D-000037642-xml" available="false">
+        <price>20000</price>
         <currencyId>UAH</currencyId>
         <categoryId>9257</categoryId>
         <picture>https://img.justbuy.work/products/da9da27d-7755-4296-bb4d-65dff86884ca/image1image-1-1dea0a99.jpg</picture>
