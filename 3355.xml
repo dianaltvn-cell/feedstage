@@ -2387,8 +2387,8 @@
         <param name="Type">Супутниковий модем</param>
         <param name="Wi-Fi-маршрутизатор">802.11a/b/g/n/ac/ax (Tri Band - 4 x 4 MIMO)</param>
         <stock_quantity>0</stock_quantity>
-        </offer>
-        <offer id="D-000037642-xml-1" available="false">
+</offer>
+<offer id="D-000037642-xml-1" available="false">
         <price>20000</price>
         <currencyId>UAH</currencyId>
         <categoryId>9257</categoryId>
